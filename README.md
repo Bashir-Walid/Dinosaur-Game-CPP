@@ -49,7 +49,6 @@ git clone https://github.com/Bashir-Walid/Dinosaur-Game-CPP.git
 What I Learned
 Through this project, I practiced:
 - C++ programming fundamentals
-- Object-oriented programming concepts
 - Game loop structure
 - Player movement and jumping logic
 - Collision detection
