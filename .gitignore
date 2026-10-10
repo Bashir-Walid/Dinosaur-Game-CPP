@@ -1,0 +1,45 @@
+﻿# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+build/
+out/
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# C/C++ generated files
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.pch
+*.tlog
+*.log
+*.VC.db
+*.VC.VC.opendb
+ipch/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+*.dll
+
+*.dll
