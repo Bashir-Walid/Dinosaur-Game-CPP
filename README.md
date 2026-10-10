@@ -1,26 +1,63 @@
-# Raylib C++ Starter Template
+# Dinosaur Game in C++
 
-Raylib C++ Starter Template for Visual Studio Code on Windows.
+A simple dinosaur-style game built from scratch using C++ and raylib.
 
-This demo project contains a bouncing ball raylib example program.
+The project was created to practice programming fundamentals, object-oriented programming, game logic, collision handling, asset management, and basic 2D game development.
 
-It works with raylib version 4.5.
-Tested on both Windows 10 and Windows 11.
+## Features
 
-# Video Tutorial
+- Player movement and jumping
+- Obstacle spawning
+- Collision detection
+- Game over logic
+- Background and environment assets
+- Sound effects
+- Simple score/game progression logic
+- 2D rendering using raylib
 
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
+## Technologies Used
 
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
+- C++
+- raylib
+- CMake
+- Visual Studio / Visual Studio Code
+- Git
+- GitHub
 
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="https://www.programmingwithnick.com">My Website</a> | <br>
-</p>
+## Project Structure
 
+The project contains:
+
+- Main game logic
+- Character assets
+- Rock/obstacle assets
+- Audio files
+- Map/background assets
+- CMake configuration
+- Supporting runtime files and project resources
+
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Bashir-Walid/Dinosaur-Game-CPP.git
+
+2. Open the project in Visual Studio or Visual Studio Code.
+3. Make sure raylib is configured correctly.
+4. Build and run the project.
+What I Learned
+Through this project, I practiced:
+- C++ programming fundamentals
+- Object-oriented programming concepts
+- Game loop structure
+- Player movement and jumping logic
+- Collision detection
+- Working with textures, images, and sound
+- Organizing game assets
+- Debugging C++ code
+- Building a small game project from scratch
+Author
+Bashir Walid Ebdah
+- LinkedIn: https://www.linkedin.com/in/bashir-walid/
+- GitHub: https://github.com/Bashir-Walid
